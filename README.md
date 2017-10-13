@@ -21,4 +21,4 @@ alert(s);
 
 Et une images
 
-[logo Becode]:http://www.becode.org/partners/images/SmallLogo.png
+![BeCode Logo](http://www.becode.org/partners/images/SmallLogo.png)
