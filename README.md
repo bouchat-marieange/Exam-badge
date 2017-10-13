@@ -2,11 +2,11 @@
 
 Ceci est l'exercice réalisé pour le passage du badge git-github à Becode
 
-On collaborer à cet exercice:
+On collaboré à cet exercice:
 
 * Valerian
 * Serge
-* Alis
+* Ali
 * Marie-Ange
 
 Le lien pour avoir les [instructions de l'exercice](https://github.com/becodeorg/badge-git-terminal-markdown)
@@ -19,6 +19,6 @@ alert(s);
 ```
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
-Et une images
+Et une image
 
 ![BeCode Logo](http://www.becode.org/partners/images/SmallLogo.png)
