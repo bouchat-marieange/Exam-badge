@@ -11,8 +11,4 @@ On collaborer à cet exercice:
 
 Le lien pour avoir les [instructions de l'exercice](https://github.com/becodeorg/badge-git-terminal-markdown)
 
-
-une liste,
-un snippet de code,
-un lien
-et une image.
+![BeCode Logo](http://www.becode.org/partners/images/SmallLogo.png)
